@@ -1,0 +1,218 @@
+.body{
+
+}
+.container{
+  width: 1246px; 
+  min-height: 600px;
+  margin:0 auto;
+  background-color: rgba(221, 216, 228, 0.925);  /* */
+  
+}
+
+.heder{
+  width: 1246px;
+  height: 65px;
+  border: 1px solid;
+  background-color: rgb(35, 38, 41);
+
+
+  
+  
+  
+  
+  
+}
+
+
+.сontact, .mapSite, .partners, .rss, .basket, .controlPanel, .acess{    /* */
+  display: inline;
+  margin: 5px 5px 5px 5px;
+  padding:1px 15px 1px 15px;
+  min-width: 20px;
+  min-height: 30px;
+  height:50px;
+  font-family: Times New Roman;
+  font-style: bold;
+
+  
+  text-align: center;
+  background-color: rgb(35, 38, 41);
+  color:white;
+
+
+
+
+  
+}
+ 
+.сontact, .mapSite, .partners, .rss{
+  float: left;
+  
+}
+
+.basket, .controlPanel, .acess{
+  float: right;
+ 
+
+}
+
+
+/* Logo Shop */
+
+.hederLogo{
+  width: 1246px;
+  height: 180px;
+  border: 1px solid;
+  background-color: rgb(47, 164, 211);
+
+  
+  
+
+
+
+
+}
+
+.nameShop{
+  min-width: 230px;
+  margin-left: 10rem;
+  margin-top: 4rem;
+  text-transform: uppercase;
+  
+  
+  float: left;
+  background-color: white;
+  color:red;
+  font-family: Arial;
+  font-style: italic;
+  font-size: 18px;
+  line-height: 1px;
+  
+  border-radius: 75px 10px 15px 75px;
+  text-align: center;
+  text-indent: 10px;
+
+ 
+
+  
+}
+
+
+.cars-img{
+  width:50px;
+    margin-top: 40px;
+    float: left;
+
+}
+
+.onlyShop{
+  width: 100px;
+  margin-left: 4rem;
+  margin-top: 4rem;
+  
+  font-size: 15px;
+  text-indent: 13px;
+	text-align: justify;
+  font-family:  Arial ;
+  font-size: 11px;
+  color: white;
+  font-style: italic;
+ 
+
+
+
+  
+  float: left;
+
+
+
+}
+
+
+
+.main {
+  width: 1000px;
+  margin:0 auto;
+  
+ 
+
+}
+
+.nav {
+  width: 1000px;
+  height: 60px;
+  
+  
+  background-color: rgb(35, 38, 41);
+}
+
+.navBody, .navTransmission, .navEngine, .navSalon, .navAccessories, .navBodyKits, .navTuning{
+  display: inline;
+  margin: 5px 5px 5px 5px;
+  padding:1px 15px 1px 15px;
+  min-width: 20px;
+  min-height: 30px;
+  height:50px;
+  font-family: Lucida Sans;
+  font-style: bold;
+  text-transform: uppercase;
+
+  
+  text-align: center;
+  background-color: rgb(35, 38, 41);
+  color:white;
+  float: left;
+
+
+  
+
+
+
+
+  
+}
+
+.carsLogo{
+  width: 1000px;
+  float: left;
+  border: 1px solid;
+}
+
+.mersedes, .bmw, .lexus, .mitsubihi{
+  margin: 5px;
+  
+  float: left;
+
+}
+  
+.tayota{
+  float: right;
+  
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
